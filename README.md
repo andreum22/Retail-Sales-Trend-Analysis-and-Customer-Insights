@@ -1,6 +1,6 @@
 #Comprehensive Sales Analysis for Retail Data
 
-#📊 Project Overview
+📊 ##Project Overview
 This project is a thorough analysis of retail sales data to uncover insights on sales trends, customer behaviors, product performance, and more. The goal is to leverage data analytics and machine learning techniques to extract actionable insights that can help optimize business strategies and enhance decision-making.
 
 #🛠 Features
